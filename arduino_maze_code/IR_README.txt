@@ -1,3 +1,4 @@
+wil be making a lot of changes to the library and the code to make it suitabele for a line folloing robot, may remove the accelometre and will also remode the encoder code.
 IR LIBRARY README
 
 VARIABLES
